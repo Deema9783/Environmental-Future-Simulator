@@ -4,5 +4,5 @@ A project that simulates how pollution, trees, and renewable energy affect a cit
 Team Members
 
 Deema
-Gand @gaand1999
+Gand 
 Reeman
