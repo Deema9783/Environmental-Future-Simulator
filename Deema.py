@@ -67,3 +67,12 @@ print("Our simulation for today has ended.")
 print("Thank you for your time and your interest in the future of our environment.")
 print("Remember that every decision you make today shapes our reality tomorrow.")
 print("-" * 65)
+average_score = np.mean(score)
+
+print("Average environmental score:", round(average_score, 2))
+
+if average_score >= 50:
+    print("The city has a good environmental future.")
+else:
+    print("The city needs more environmental improvements.")
+
